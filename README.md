@@ -32,21 +32,7 @@ A secure authentication platform built with Flask, featuring user registration, 
    \`\`\`
 4. Open your browser and go to `http://localhost:5000`
 
-## Project Structure
 
-\`\`\`
-safeaccess/
-├── app.py                 # Main Flask application
-├── requirements.txt       # Python dependencies
-├── safeaccess.db         # SQLite database (created automatically)
-├── templates/
-│   ├── base.html         # Base template
-│   ├── signup.html       # Registration page
-│   ├── login.html        # Login page
-│   └── dashboard.html    # Protected dashboard
-└── static/
-    └── style.css         # Custom CSS styles
-\`\`\`
 
 ## Security Features
 
@@ -64,13 +50,7 @@ safeaccess/
 3. **Dashboard**: Access your protected dashboard after authentication
 4. **Logout**: Securely end your session
 
-## Routes
 
-- `/` - Redirects to login
-- `/signup` - User registration
-- `/login` - User authentication
-- `/dashboard` - Protected user dashboard
-- `/logout` - Session termination
 
 ## Customization
 
