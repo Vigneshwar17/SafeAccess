@@ -22,17 +22,9 @@ A secure authentication platform built with Flask, featuring user registration, 
 ## Installation
 
 1. Clone or download the project files
-2. Install dependencies:
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
-3. Run the application:
-   \`\`\`bash
-   python app.py
-   \`\`\`
+2. Install dependencies: pip install -r requirements.txt
+3. Run the application: python app.py
 4. Open your browser and go to `http://localhost:5000`
-
-
 
 ## Security Features
 
